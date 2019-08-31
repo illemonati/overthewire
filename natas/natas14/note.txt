@@ -1,0 +1,5 @@
+$query = "SELECT * from users where username=\"".$_REQUEST["username"]."\" and password=\"".$_REQUEST["password"]."\"";
+
+SELECT * from users where username="{username}" and password="password"
+
+username = " or 1=1 #

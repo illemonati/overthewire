@@ -1,0 +1,6 @@
+$query = "SELECT * from users where username=\"".$_REQUEST["username"]."\"";
+
+SELECT * from users where username = ""
+
+
+natas16" and password LIKE "%%" #
